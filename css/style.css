@@ -1,0 +1,30 @@
+body {
+    background-color: #AEDEA9;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h2 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    height: 43px;
+    width: 324px;
+    left: 10px;
+    top: 267px;
+    border-radius: 0px;
+    background-color: #F48B8B;
+}
+.bold {
+    font-style: normal;
+    font-weight: bold;
+    color: #000000;
+}
+span {
+    font-style: italic;
+    color: #FA20BD;
+}
+a {
+    font-weight: 700;
+    font-size: 32px;
+    color: #074C9E;
+}
